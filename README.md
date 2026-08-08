@@ -20,6 +20,8 @@ The dashboard transforms raw employee data into actionable HR insights that can 
 - Data Visualization
 - KPI Analysis
 
+## View Raw data used
+- <a href="https://github.com/anantsinha2005/HR-Attrition-Analysis-Dashboard/blob/main/HR_RawData.xlsx">HR Raw Data</a>
 
 
 ##  Project Workflow
