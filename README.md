@@ -46,18 +46,6 @@ The dashboard transforms raw employee data into actionable HR insights that can 
 10. Analyzed the results to identify key employee attrition patterns and business implications.
 
 
-
-##  Dashboard KPIs
-
-| KPI | Value |
-|---|---:|
-| Total Employees | 1,470 |
-| Attrition Count | 237 |
-| Active Employees | 1,233 |
-| Average Age | 37 |
-| Attrition Rate | 16.12% |
-
-
 ##  Key Insights
 
 - **237 employees** have left the organization, resulting in an overall **16.12% attrition rate**.
