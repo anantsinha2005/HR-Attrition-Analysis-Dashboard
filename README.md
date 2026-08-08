@@ -72,42 +72,7 @@ The dashboard transforms raw employee data into actionable HR insights that can 
 
 ##  Dashboard Preview
 
-![HR Attrition Analysis Dashboard](HR%20Attrition%20Analysis%20Dashboard%20by%20Anant%20Image.png)
+<img width="1704" height="647" alt="HR Attrition Analysis Dashboard by Anant Image" src="https://github.com/user-attachments/assets/0a5ceeea-e77b-4952-b520-5497c122d942" />
 
+- <a href="https://github.com/anantsinha2005/HR-Attrition-Analysis-Dashboard/blob/main/HR%20Attrition%20Analysis%20Dashboard%20by%20Anant.xlsb">View Dashboard</a>
 
-
-## 📂 Repository Contents
-
-```text
-HR-Attrition-Analysis-Dashboard
-│
-├── HR Attrition Analysis Dashboard by Anant.xlsb
-├── HR_RawData.xlsx
-├── HR Attrition Analysis Dashboard by Anant Image.png
-└── README.md
-```
-
----
-
-##  Future Improvements
-
-- Add analysis of attrition by salary and compensation.
-- Analyze the relationship between job satisfaction and attrition.
-- Analyze overtime and work-life balance in greater detail.
-- Build an interactive version using Power BI.
-- Develop an employee attrition prediction model using Python and Machine Learning.
-
----
-
-##  Learning Outcomes
-
-Through this project, I strengthened my understanding of:
-
-- HR Analytics
-- Data Cleaning and Preparation
-- Pivot Tables and Pivot Charts
-- Interactive Excel Dashboards
-- KPI Development
-- Employee Segmentation
-- Data Visualization
-- Translating data into actionable business insights
