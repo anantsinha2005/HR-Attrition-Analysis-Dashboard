@@ -1,12 +1,10 @@
-# 📊 HR Attrition Analysis Dashboard
+#  HR Attrition Analysis Dashboard
 
 An interactive **HR Attrition Analysis Dashboard** built in Microsoft Excel to analyze employee attrition patterns across demographics, departments, education, job roles, age groups, and marital status.
 
 The dashboard transforms raw employee data into actionable HR insights that can help organizations understand employee turnover and identify high-risk employee segments.
 
----
-
-## 🎯 Problem Statement
+##  Problem Statement
 
 Employee attrition can significantly impact an organization's productivity, hiring costs, and workforce stability.
 
@@ -22,9 +20,9 @@ The objective of this project is to analyze employee attrition data and identify
 
 The goal is to provide HR teams with a simple and interactive dashboard for understanding employee turnover and supporting data-driven workforce decisions.
 
----
 
-## 🛠️ Tools & Features Used
+
+##  Tools & Features Used
 
 ### Tool
 - Microsoft Excel
@@ -40,9 +38,9 @@ The goal is to provide HR teams with a simple and interactive dashboard for unde
 - Data Visualization
 - KPI Analysis
 
----
 
-## ⚙️ Project Workflow
+
+##  Project Workflow
 
 1. Imported the raw HR employee dataset into Microsoft Excel.
 2. Cleaned and organized the dataset for analysis.
@@ -63,9 +61,9 @@ The goal is to provide HR teams with a simple and interactive dashboard for unde
 9. Combined the visualizations into an interactive HR dashboard.
 10. Analyzed the results to identify key employee attrition patterns and business implications.
 
----
 
-## 📌 Dashboard KPIs
+
+##  Dashboard KPIs
 
 | KPI | Value |
 |---|---:|
@@ -75,9 +73,8 @@ The goal is to provide HR teams with a simple and interactive dashboard for unde
 | Average Age | 37 |
 | Attrition Rate | 16.12% |
 
----
 
-## 📊 Key Insights
+##  Key Insights
 
 - **237 employees** have left the organization, resulting in an overall **16.12% attrition rate**.
 - **Male employees account for 63%** of total attrition, compared with 37% for female employees.
@@ -90,7 +87,7 @@ The goal is to provide HR teams with a simple and interactive dashboard for unde
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - Focus retention strategies on **employees aged 25–34**, who represent the largest attrition group.
 - Investigate the high attrition rate among **Sales Representatives and Sales employees**.
@@ -99,13 +96,13 @@ The goal is to provide HR teams with a simple and interactive dashboard for unde
 - Consider additional engagement and career-development initiatives for **single employees**, who show a higher attrition rate.
 - Use employee segmentation to identify high-risk groups and proactively address potential retention issues.
 
----
 
-## 🖥️ Dashboard Preview
+
+##  Dashboard Preview
 
 ![HR Attrition Analysis Dashboard](HR%20Attrition%20Analysis%20Dashboard%20by%20Anant%20Image.png)
 
----
+
 
 ## 📂 Repository Contents
 
@@ -120,7 +117,7 @@ HR-Attrition-Analysis-Dashboard
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Add analysis of attrition by salary and compensation.
 - Analyze the relationship between job satisfaction and attrition.
@@ -130,7 +127,7 @@ HR-Attrition-Analysis-Dashboard
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I strengthened my understanding of:
 
