@@ -4,24 +4,6 @@ An interactive **HR Attrition Analysis Dashboard** built in Microsoft Excel to a
 
 The dashboard transforms raw employee data into actionable HR insights that can help organizations understand employee turnover and identify high-risk employee segments.
 
-##  Problem Statement
-
-Employee attrition can significantly impact an organization's productivity, hiring costs, and workforce stability.
-
-The objective of this project is to analyze employee attrition data and identify patterns across different employee characteristics such as:
-
-- Gender
-- Age
-- Education
-- Department
-- Job Role
-- Marital Status
-- Education Field
-
-The goal is to provide HR teams with a simple and interactive dashboard for understanding employee turnover and supporting data-driven workforce decisions.
-
-
-
 ##  Tools & Features Used
 
 ### Tool
